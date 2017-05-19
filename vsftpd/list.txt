@@ -1,0 +1,1 @@
+pam_mysql-0.7RC1  通过PAM模块+mysql设置vsftpd的虚拟用户
